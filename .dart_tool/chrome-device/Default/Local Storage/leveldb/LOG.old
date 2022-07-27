@@ -1,0 +1,9 @@
+2022/07/24-14:30:38.464 3b38 Reusing MANIFEST C:\Users\tiago\AppData\Local\Temp\flutter_tools.39b24493\flutter_tools_chrome_device.71fcca7d\Default\Local Storage\leveldb/MANIFEST-000001
+2022/07/24-14:30:38.465 3b38 Recovering log #3
+2022/07/24-14:30:38.466 3b38 Reusing old log C:\Users\tiago\AppData\Local\Temp\flutter_tools.39b24493\flutter_tools_chrome_device.71fcca7d\Default\Local Storage\leveldb/000003.log 
+2022/07/24-16:21:48.967 6c0 Level-0 table #5: started
+2022/07/24-16:21:48.971 6c0 Level-0 table #5: 17336 bytes OK
+2022/07/24-16:21:48.973 6c0 Delete type=0 #3
+2022/07/24-17:15:01.656 2c5c Level-0 table #7: started
+2022/07/24-17:15:01.661 2c5c Level-0 table #7: 19172 bytes OK
+2022/07/24-17:15:01.664 2c5c Delete type=0 #4
